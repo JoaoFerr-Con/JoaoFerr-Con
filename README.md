@@ -11,8 +11,7 @@ Desenvolvedor focado em construir aplicações escaláveis e bem estruturadas. A
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🥋 Além do código
-Quando não estou refatorando APIs, você provavelmente vai me encontrar no tatame praticando ou ensinando **Jiu-jitsu** e **Boxe**. A disciplina é o verdadeiro caminho que abre portas. :D
+###  Além do código
 
 ---
 
