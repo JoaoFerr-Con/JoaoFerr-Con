@@ -11,13 +11,6 @@ Desenvolvedor focado em construir aplicações escaláveis e bem estruturadas. A
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoFerr-Con&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFerr-Con&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
-
 ### 🥋 Além do código
 Quando não estou refatorando APIs, você provavelmente vai me encontrar no tatame praticando ou ensinando **Jiu-jitsu** e **Boxe**. A disciplina é o verdadeiro caminho que abre portas. :D
 
