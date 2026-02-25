@@ -9,10 +9,10 @@
       <td width="70%" valign="top">
         <h1>Olá, eu sou o João Victor! 👋</h1>
         <p>
-          Desenvolvedor focado em construir aplicações escaláveis e bem estruturadas. Atualmente, meu foco principal é o ecossistema <b>.NET (C#)</b> e <b>Java</b>, com experiência sólida na criação de APIs robustas e integrações de sistemas.
+          Desenvolvedor apaixonado em construir aplicações escaláveis e bem estruturadas. Atualmente, meu foco principal é o ecossistema <b>.NET (C#)</b> e <b>Java</b>, com experiência na criação de APIs robustas e integrações de sistemas.
         </p>
         <p>
-          Com 23 anos e residente em Belém, possuo uma trajetória que une o desenvolvimento de software à infraestrutura de TI, permitindo uma visão holística sobre o ciclo de vida das aplicações.
+          Possuo uma trajetória que une o desenvolvimento de software à infraestrutura de TI, permitindo uma visão holística sobre o ciclo de vida das aplicações.
         </p>
       </td>
     </tr>
