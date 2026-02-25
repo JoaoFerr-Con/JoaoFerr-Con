@@ -61,7 +61,7 @@ Além do código, tenho um forte interesse por inovação sustentável, tendo de
 ### 🎓 Educação
 
 * **Pós-graduando em Engenharia de Software**
-* **Bacharel Tecnólogo em Análise e Desenvolvimento de Sistemas** (Concluído em 2025)
+* **Bacharel Tecnólogo em Análise e Desenvolvimento de Sistemas** (Concluído)
 
 ---
 
