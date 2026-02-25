@@ -1,9 +1,8 @@
 # Olá, eu sou o João Victor! 👋
 
 Desenvolvedor focado em construir aplicações escaláveis e bem estruturadas. Atualmente, meu foco principal é o ecossistema **.NET (C#)** e **Java**, com experiência sólida na criação de APIs robustas e automações.
-![It Works](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJidmc1Z3JxdzR6dHJ6Z3J6Z3J6Z3J6Z3J6Z3J6Z3J6Z3J6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPKYp8RzX6F2/giphy.gif)
-### 🛠 Tecnologias e Ferramentas
 
+### 🛠 Tecnologias e Ferramentas
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
