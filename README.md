@@ -2,8 +2,8 @@
   <table border="0">
     <tr>
       <td width="30%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LMc7wOqcXzU7v80Cis/giphy.gif" width="200" alt="Vault Boy GIF">
-        <br>
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
+<br><br>
         <sub><b>Status: Codando...</b></sub>
       </td>
       <td width="70%">
