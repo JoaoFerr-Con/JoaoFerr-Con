@@ -9,7 +9,7 @@
       <td width="70%" valign="top">
         <h1>Olá, eu sou o João! 👋</h1>
         <p>
-          Desenvolvedor apaixonado em construir aplicações escaláveis e bem estruturadas. Atualmente, meu foco é o ecossistema <b>.NET (C#)</b> , <b>Java</b> e <b>Python</b> com experiência na criação de APIs robustas e integrações de sistemas.
+          Desenvolvedor apaixonado em construir aplicações escaláveis e bem estruturadas. Atualmente focado no ecossistema <b>.NET (C#)</b> , <b>Java</b> e <b>Python</b> com experiência na criação de APIs robustas e integrações de sistemas.
         </p>
         <p>
           Possuo uma trajetória que une o desenvolvimento de software à infraestrutura de TI, permitindo uma visão holística sobre o ciclo de vida das aplicações.
